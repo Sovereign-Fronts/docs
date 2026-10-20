@@ -1,0 +1,21 @@
+main:
+  - title: test title
+    url: /docs/getting-started/
+
+docs:
+  - title: example Getting Started
+    children:
+      - title: Overview
+        url: /getting-started/
+      - title: Installation
+        url: /installation/
+
+  - title: example guides
+    children:
+      - title: Configuration
+        url: /configuration/
+
+  - title: example reference
+    children:
+      - title: API Reference
+        url: /api-reference/
