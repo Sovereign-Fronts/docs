@@ -1,21 +1,15 @@
-main:
-  - title: test title
-    url: /docs/getting-started/
-
 docs:
-  - title: example Getting Started
+  - title: welcome
     children:
-      - title: Overview
-        url: /getting-started/
-      - title: Installation
-        url: /installation/
+      - title: Introduction
+        url: /introduction/
 
-  - title: example guides
+  - title: Server setup
     children:
-      - title: Configuration
-        url: /configuration/
+      - title: Server Flavors
+        url: /setup/server-flavors/
 
-  - title: example reference
+  - title: Mod development
     children:
-      - title: API Reference
-        url: /api-reference/
+      - title: Introduction
+        url: /mod-dev/introduction/
