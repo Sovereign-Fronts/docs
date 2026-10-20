@@ -1,5 +1,6 @@
 ---
-layout: home
-title: "Home"
-author_profile: true
+layout: single
+title: "Documentation"
+sidebar:
+  nav: docs
 ---
