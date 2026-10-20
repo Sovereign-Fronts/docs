@@ -1,0 +1,12 @@
+title: Sovereign Fronts Docs
+description: Documentation for the Sovereign Fronts game and Cinnamon server
+url: "https://docs.sovereign-fronts.com"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+minimal_mistakes_skin: default
