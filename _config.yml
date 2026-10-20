@@ -14,7 +14,6 @@ minimal_mistakes_skin: default
 collections:
   docs:
     output: true
-    permalink: /docs/:name/
 
 defaults:
   - scope:
