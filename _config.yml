@@ -10,3 +10,19 @@ plugins:
   - jekyll-remote-theme
 
 minimal_mistakes_skin: default
+
+collections:
+  docs:
+    output: true
+    permalink: /docs/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      sidebar:
+        nav: docs
+      toc: true
+      toc_sticky: true
