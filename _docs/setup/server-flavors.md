@@ -20,12 +20,3 @@ Each flavor provides its own APIs and tools for modifying server behavior and de
 Cinnamon is the official flavor of Sovereign Fronts. It provides the standard server implementation and the official API for Cinnamon mods. The official launcher is based on Cinnamon.
 
 The following pages cover setting up a **Cinnamon server**.
-
-
-Test success notice
-{: .notice--success}
-
-
-```python
-print("Hello, world!")
-```

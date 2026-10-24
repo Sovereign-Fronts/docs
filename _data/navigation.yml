@@ -8,6 +8,8 @@ docs:
     children:
       - title: Server Flavors
         url: /setup/server-flavors/
+      - title: Server Creation
+        url: /setup/server-creation/  
 
   - title: Mod development
     children:
